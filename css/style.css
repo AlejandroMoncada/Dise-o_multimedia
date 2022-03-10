@@ -447,6 +447,7 @@ textarea{
  }
  input[type="email"]{
    padding-right: 1px;
+   background-color: white;
  }
  .tercera{
    display: inline-block;
